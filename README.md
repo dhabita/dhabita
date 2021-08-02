@@ -1,7 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 <a href="https://www.linkedin.com/in/dhabita/">
-  <img align="left" alt="Alfara's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"   width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  
 
@@ -11,7 +11,7 @@
 <br />
 
 Hi, I'm [Bisri Mustofa](https://www.linkedin.com/in/dhabita/),  Web Programmer with 8 years experience.  
-
+<br /><br />
   <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" />
 
 
