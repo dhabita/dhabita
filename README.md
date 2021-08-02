@@ -10,9 +10,9 @@
 <br />
 <br />
 
-Hi, I'm [Bisri Mustofa](https://www.linkedin.com/in/dhabita/),  Web Programmer with 8 years experience.  
+Hi, I'm [Bisri Mustofa](https://www.linkedin.com/in/dhabita/),  Web and Blockchain Programmer with 8 years experience.  
 <br /><br />
-  <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" />
+  <img align="" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" />
 
 
 - 💬 Ask me about anything,Let we discuss together!
