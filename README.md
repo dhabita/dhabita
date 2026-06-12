@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bisri%20Mustofa&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20Blockchain%20Engineer%20%E2%80%A2%20Building%20the%20Decentralized%20Future&descAlignY=56&descSize=18&animation=fadeIn" />
+# Bisri Mustofa
+
+### Web &amp; Blockchain Engineer · Building the Decentralized Future
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/dhabita">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Blockchain+%26+Smart+Contract+Engineer;8%2B+Years+Crafting+Digital+Solutions;Turning+Complex+Ideas+Into+Clean+Code" alt="Typing SVG" />
 </a>
 
@@ -154,7 +155,5 @@ I'm always open to **collaborating on ambitious projects**, exchanging ideas on 
 <div align="center">
 
 ⭐️ <i>From <a href="https://github.com/dhabita">Bisri Mustofa</a> — thanks for visiting!</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
