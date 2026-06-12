@@ -128,16 +128,6 @@ const bisri: Engineer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhabita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - 🔗 **Layer 2 scaling solutions** — Optimism, Arbitrum, and zkEVM rollups
